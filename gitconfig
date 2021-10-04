@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = saralevi524@gmail.com
+	name = Sara Levi
